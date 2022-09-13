@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.exe
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.deps.json
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.runtimeconfig.json
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.runtimeconfig.dev.json
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.dll
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\bin\Debug\netcoreapp3.1\SIBKMNet.pdb
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.AssemblyInfo.cs
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.dll
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.pdb
+C:\Users\user\source\repos\SIBKMNet\SIBKMNet\obj\Debug\netcoreapp3.1\SIBKMNet.genruntimeconfig.cache
